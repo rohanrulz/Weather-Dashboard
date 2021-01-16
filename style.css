@@ -1,6 +1,4 @@
-header {
-    background-color: yellow;
-}
+
 
 h1 {
     color: black;
@@ -9,16 +7,23 @@ h1 {
     padding: 25px;
 }
 
+header {
+    background-color: yellow;
+}
+
+
+input {
+    border-color: blue ;
+    display: inline;
+}
+
+
 label {
     text-decoration: underline;
     text-decoration-color: red;
     display: block;
 }
 
-input {
-    border-color: blue ;
-    display: inline;
-}
 
 h5 {
     color: green;
@@ -30,6 +35,8 @@ h2 {
 
 .card {
     max-width: 400px;
+    border-color: blue;
+    border-width: thick;
 }
 
 .container {
