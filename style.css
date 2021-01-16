@@ -1,0 +1,38 @@
+header {
+    background-color: yellow;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-style: italic;
+    padding: 25px;
+}
+
+label {
+    text-decoration: underline;
+    text-decoration-color: red;
+    display: block;
+}
+
+input {
+    border-color: blue ;
+    display: inline;
+}
+
+h5 {
+    color: green;
+}
+
+h2 {
+    color: red;
+}
+
+.card {
+    max-width: 400px;
+}
+
+.container {
+    margin: 0px;
+    max-width: none;
+}
